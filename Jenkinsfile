@@ -1,2 +1,2 @@
 @Library('my-first-shared-lib') _
-etechApp ''
+etechApp 'https://github.com/rnfor-pro/etechapps/new/main'
