@@ -1,2 +1,2 @@
 @library('my-first-shared-lib') _
-exercise 
+exercise 'https://github.com/rnfor-pro/etechapps.git'
